@@ -13,3 +13,7 @@ https://leetcode.com/problems/unique-morse-code-words/
 Day 3.
 Fizz Buzz
 https://leetcode.com/problems/fizz-buzz/
+
+Day 4.
+Missing Number
+https://leetcode.com/problems/missing-number/
