@@ -17,3 +17,7 @@ https://leetcode.com/problems/fizz-buzz/
 Day 4.
 Missing Number
 https://leetcode.com/problems/missing-number/
+
+Day 5.
+Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
