@@ -21,3 +21,7 @@ https://leetcode.com/problems/missing-number/
 Day 5.
 Best Time to Buy and Sell Stock
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+Day 6.
+Power of Three
+https://leetcode.com/problems/power-of-three/
